@@ -7,5 +7,3 @@
 - 🌱 I’m currently learning :
 - 😄 Pronouns : 
 - ⚡ Fun fact : 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dksdpdms520)](https://github.com/dksdpdms520) 
