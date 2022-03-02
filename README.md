@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-&logo=React&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat-&logo=Django&logoColor=white)
 
 
 ## Github Stats
