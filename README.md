@@ -6,7 +6,8 @@
 ## More About Me
 🔭 I’m currently working on : 
  
-🌱 I’m currently learning : ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-&logo=React&logoColor=white)
+🌱 I’m currently learning : ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-&logo=JavaScript&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat-&logo=React&logoColor=white)
 
 ## Languages and Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-&logo=Python&logoColor=white)
