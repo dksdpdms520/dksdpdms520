@@ -1,7 +1,7 @@
 <div align=center><h1> Hi 👋, I'm Ye-eun Ahn! </h1></div>
 
 <div align=center>
- I'm a student and a front-end developer.
+ I'm a student and front-end developer.
  
 ## More About Me
 🔭 I’m currently working on : 
